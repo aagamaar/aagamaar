@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @aagamaar
+- 👋 Hi, I’m Aagama A R.
 - 👀 I’m interested in web development.
-- 📫 How to reach me ...aagamaar01@gmail.com
+- 📫 How to reach me : aagamaar01@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
 
 <!---
 aagamaar/aagamaar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
