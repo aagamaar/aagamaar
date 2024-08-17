@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aagama A R.
-- 👀 I’m interested in web development.
+- Exploring everything and trying out stuff
 - 📫 How to reach me : aagamaar01@gmail.com
 - 😄 Pronouns: She/Her
 
