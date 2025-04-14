@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Aagama</h1>
 <h3 align="center">Truly passionate about Artificial Intelligence ,Python & Machine Learning</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
-- 🌱 I’m currently learning **AI Programming with Python**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Python**
 
