@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Aagama</h1>
 <h3 align="center">Truly passionate about Data Science and Machine Learning</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning about **Data Science**
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me anything about **Machine Learning**
 
 - 📫 How to reach me **aagamaar01@gmail.com**
 
