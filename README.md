@@ -2,8 +2,6 @@
 <h3 align="center">Passionate about Machine Learning and Java Development</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aagamaar" alt="aagamaar" /></a> </p>
-
 - 🔭 I’m currently working on [Blood Donation Management System](https://github.com/aagamaar/Blood-Donation-System)
 
 - 🌱 I’m currently learning **Java Development**
