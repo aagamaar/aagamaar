@@ -2,7 +2,7 @@
 <h3 align="center">Passionate about Machine Learning and Java Development</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
-- 🔭 I’m currently working on [Blood Donation Management System](https://github.com/aagamaar/Blood-Donation-System)
+- 🔭 I’m currently working on [Blood Sync]((https://github.com/aagamaar/Blood_Sync))
 
 - 🌱 I’m currently learning **Java Development**
 
