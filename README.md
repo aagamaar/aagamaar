@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Cyber Security Projects
 
-- 🌱 I’m currently learning **Java Development**
+- 🌱 I’m currently learning **Ethical Hacking**
 
 - 💬 Ask me about **Python, R & Machine learning**
 
