@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aagama</h1>
-<h3 align="center">Passionate about Machine Learning and Java Development</h3>
+<h3 align="center">Passionate about Machine Learning and Cyber Security</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
 - 🔭 I’m currently working on Cyber Security Projects
