@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWw0N2N2YnZidW14bXN6cmNpeG1mZ290eW54bW96c3A5bms1b3F0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   Hi, I'm Aagama
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWw0N2N2YnZidW14bXN6cmNpeG1mZ290eW54bW96c3A5bms1b3F0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
 <h3 align="center">
@@ -126,7 +126,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN6cmRmaGsyeXp2bXQ3ZnpsMmV5dDZ2bnd1a3E1cjF6NXpxeGF6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="200">
 </p>
 
 <p align="center">
