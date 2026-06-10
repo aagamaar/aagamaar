@@ -26,15 +26,15 @@
       <em>Computer Networks & Information Security</em><br>
       🏫 <strong>IIIT Kottayam</strong></p>
       
-      <h3>🐍 What I Love Doing</h3>
+   <h3>🐍 What I Love Doing</h3>
       <p><strong>Building real-world Python projects that solve actual problems.</strong></p>
       <p>No tutorials. No to-do apps. Just tools people can actually use — attendance bots, automation scripts, computer vision tools, and more.</p>
       
-      <h3>🔭 Current Project</h3>
+   <h3>🔭 Current Project</h3>
       <p><strong>📊 Team Attendance Bot</strong> — Telegram bot that replaces daily WhatsApp attendance polls.<br>
       → v1 MVP: single file, SQLite, working today<br>
       → v2: multi-tenant rewrite in progress</p>
-    </td>
+ </td>
     <td align="center" width="40%" valign="middle">
       <img src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" width="280">
     </td>
