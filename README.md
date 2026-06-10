@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Aagama</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Hi, I'm Aagama
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
 <h3 align="center">
   <code>🐍 Building Real-World Python Projects</code><br>
-  <code>🌐 Computer Networks & Cryptography</code> &nbsp;|&nbsp; 
-  <code>🏗️ Building in Public</code>
+  <code>🌐 Computer Networks & Cryptography</code><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Building+in+Public;Shipping+Anyway;Failing+Out+Loud" alt="Typing Animation" />
 </h3>
 
 <p align="center">
@@ -14,43 +18,69 @@
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
+<table>
+  <tr>
+    <td width="60%">
+      <h3>🎓 Current Internship</h3>
+      <p><strong>Skill Development cum Internship Program</strong><br>
+      <em>Computer Networks & Information Security</em><br>
+      🏫 <strong>IIIT Kottayam</strong></p>
+      
+      <h3>🐍 What I Love Doing</h3>
+      <p><strong>Building real-world Python projects that solve actual problems.</strong></p>
+      <p>No tutorials. No to-do apps. Just tools people can actually use — attendance bots, automation scripts, computer vision tools, ML web apps.</p>
+      
+      <h3>🔭 Current Project</h3>
+      <p><strong>📊 Team Attendance Bot</strong> — Telegram bot that replaces daily WhatsApp attendance polls.<br>
+      → v1 MVP: single file, SQLite, working today<br>
+      → v2: multi-tenant rewrite in progress</p>
+    </td>
+    <td align="center" width="40%">
+      <img src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" width="280">
+    </td>
+  </tr>
+</table>
 
-### 🎓 Current Internship
+---
 
-> **Skill Development cum Internship Program**  
-> *Computer Networks & Information Security*  
-> 🏫 **IIIT Kottayam**
+## 📚 What I'm Learning Right Now
 
-### 📚 What I'm Learning Right Now
-
-**Computer Networks**
-- OSI & TCP/IP layers, layer devices, IP addressing
-- Routing protocols
-
-**Cryptography**
-- CIA triad & AAA framework
-- Number theory (Fermat, Euler, Totient)
-- Classical ciphers: Shift, Affine, Playfair, Vigenère
-- DES, RSA, Elgamal, Digital signatures
-
-**Plus:** Network Security Protocols, Blockchain basics (Bitcoin, Ethereum, Smart Contracts), AI for Security (threat detection, malware classification, NLP for phishing)
-
-### 🐍 What I Love Doing
-
-**Building real-world Python projects that solve actual problems.**
-
-No tutorials. No to-do apps. Just tools people can actually use — attendance bots, automation scripts, computer vision tools, ML web apps.
-
-### 🔭 Current Project
-
-**📊 Team Attendance Bot** — Telegram bot that replaces daily WhatsApp attendance polls.  
-→ v1 MVP: single file, SQLite, working today  
-→ v2: multi-tenant rewrite in progress
-
-### 📫 Reach Me
-
-**aagamaar01@gmail.com**
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🌐 Computer Networks</h3>
+      <ul>
+        <li>OSI & TCP/IP layers, layer devices</li>
+        <li>IP addressing & routing protocols</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🔐 Cryptography</h3>
+      <ul>
+        <li>CIA triad & AAA framework</li>
+        <li>Number theory (Fermat, Euler, Totient)</li>
+        <li>Classical ciphers: Shift, Affine, Playfair, Vigenère</li>
+        <li>DES, RSA, Elgamal, Digital signatures</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>⛓️ Blockchain Basics</h3>
+      <ul>
+        <li>Architecture & consensus protocols</li>
+        <li>Bitcoin, Ethereum, Smart Contracts</li>
+      </ul>
+    </td>
+    <td>
+      <h3>🤖 AI for Security</h3>
+      <ul>
+        <li>Threat detection & malware classification</li>
+        <li>NLP for spam/phishing detection</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -60,16 +90,17 @@ No tutorials. No to-do apps. Just tools people can actually use — attendance b
 |---------|-------|---------------------------|
 | [**Team Attendance Bot**](https://github.com/aagamaar/Team_Attendance_Bot) | Python, Telegram API, SQLite | Daily WhatsApp polls are annoying. This takes 2 seconds inside Telegram. |
 | [**Diabetes Predictor**](https://github.com/aagamaar/diabetes-predictor) | Python, Streamlit, SVM | End-to-end ML web app. Built so beginners can learn by seeing something real. |
-| [**Virtual Paint**](https://github.com/aagamaar/virtual-paint) | Python, OpenCV | Use colored objects as a paintbrush. Computer vision for non-gamers. |
+| [**Virtual Paint**](https://github.com/aagamaar/virtual-paint) | Python, OpenCV | Use colored objects as a paintbrush. Computer vision in action. |
 | [**Generative Turtle Art**](https://github.com/aagamaar/turtle-art) | Python, Turtle | Pushing a "beginner tool" to make generative visuals. |
 
-> Every project has messy debugging stories attached. I build in public — failures and all.
+> 💡 *Every project has messy debugging stories attached. I build in public — failures and all.*
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
+  <img src="https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=6c09b952uf8e7jw6egs30y6ydon3ehbqlldfdug3y44oap8u&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="60">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="50" />
@@ -80,9 +111,9 @@ No tutorials. No to-do apps. Just tools people can actually use — attendance b
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect & Follow My Builds
 
-<p align="left">
+<p align="center">
   <a href="https://dev.to/aagama_ar" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
   <a href="https://twitter.com/aagamaar" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://linkedin.com/in/aagamaar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -91,19 +122,15 @@ No tutorials. No to-do apps. Just tools people can actually use — attendance b
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aagamaar&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aagamaar&theme=dark&hide_border=true&background=0D1117" width="48%" />
-</p>
-
----
-
-<p align="center">
-  <i>⚡ "No tutorials. No to-do apps. Just real Python projects that solve real problems." ⚡</i>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 </p>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200">
+</p>
+
+<p align="center">
+  <i>⚡ "No tutorials. No to-do apps. Just real Python projects that solve real problems." ⚡</i><br>
   <i>🏗️ Building in public. Failing in public. Shipping anyway.</i>
 </p>
