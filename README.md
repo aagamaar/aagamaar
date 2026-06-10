@@ -86,40 +86,28 @@
 
 ---
 
-## 🏆 Projects that I'm Proud Of
+## 🏆 Projects I'm Proud Of
 
 <div align="center">
   <table width="100%">
-    <tr>
-      <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
-        <img src="https://img.icons8.com/color/48/telegram-app.png"/><br>
-        <strong>📊 Team Attendance Bot</strong><br>
-        <code>Python · Telegram API · SQLite</code><br>
-        <i>Replaces daily WhatsApp polls with a 2-second Telegram command.</i><br>
-        <a href="https://github.com/aagamaar/Team_Attendance_Bot">🔗 GitHub →</a>
+    <table>
+      <td width="33%" align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
+        <h3>🩸 BloodSync</h3>
+        <p><code>Bun · React · Flask · Scikit-learn · Dialogflow · Firebase · Twilio</code></p>
+        <p>AI WhatsApp bot and dashboard connecting donors to Thalassemia patients, predicting blood needs, and boosting donations through gamification.</p>
+        <p><a href="https://github.com/aagamaar/Blood_Sync">🔗 GitHub →</a></p>
       </td>
-      <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
-        <img src="https://img.icons8.com/color/48/streamlit.png"/><br>
-        <strong>🩺 Diabetes Predictor</strong><br>
-        <code>Python · Streamlit · SVM</code><br>
-        <i>End-to-end ML web app with beginner-friendly docs.</i><br>
-        <a href="https://github.com/aagamaar/diabetes-predictor">🔗 GitHub →</a>
+      <td width="33%" align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
+        <h3>📊 Team Attendance Bot (v1)</h3>
+        <p><code>Python · Telegram API · SQLite</code></p>
+        <p>The original proof-of-concept. A single-file Telegram bot that replaces daily WhatsApp attendance polls for one small team.</p>
+        <p><a href="https://github.com/aagamaar/Team_Attendance_Bot">🔗 GitHub →</a></p>
       </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
-        <img src="https://img.icons8.com/color/48/opencv.png"/><br>
-        <strong>🎨 Virtual Paint</strong><br>
-        <code>Python · OpenCV · NumPy</code><br>
-        <i>Turn colored objects into a real-time paintbrush.</i><br>
-        <a href="https://github.com/aagamaar/virtual-paint">🔗 GitHub →</a>
-      </td>
-      <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
-        <img src="https://img.icons8.com/color/48/python--v1.png"/><br>
-        <strong>🐢 Generative Turtle Art</strong><br>
-        <code>Python · Turtle</code><br>
-        <i>Pushing a beginner tool to make generative visuals.</i><br>
-        <a href="https://github.com/aagamaar/turtle-art">🔗 GitHub →</a>
+      <td width="33%" align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
+        <h3>⚡ Team Attendance Bot (v2)</h3>
+        <p><code>Python · Telegram API · SQLite · Flask</code></p>
+        <p>The production-ready, multi-tenant rewrite. Supports unlimited organizations, role-based access, CSV reports, and monthly leave tracking.</p>
+        <p><a href="https://github.com/aagamaar/Team_Attendance_Bot_v2">🔗 GitHub →</a></p>
       </td>
     </tr>
   </table>
