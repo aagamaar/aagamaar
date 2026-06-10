@@ -18,7 +18,7 @@
 
 ---
 
-<table>
+<table width="100%">
   <tr>
     <td width="60%">
       <h3>🎓 Current Internship</h3>
@@ -45,7 +45,7 @@
 
 ## 📚 What I'm Learning Right Now
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%">
       <h3>🌐 Computer Networks</h3>
@@ -100,7 +100,6 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=6c09b952uf8e7jw6egs30y6ydon3ehbqlldfdug3y44oap8u&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="60">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="50" />
