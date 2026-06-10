@@ -28,7 +28,7 @@
       
       <h3>🐍 What I Love Doing</h3>
       <p><strong>Building real-world Python projects that solve actual problems.</strong></p>
-      <p>No tutorials. No to-do apps. Just tools people can actually use — attendance bots, automation scripts, computer vision tools, ML web apps.</p>
+      <p>No tutorials. No to-do apps. Just tools people can actually use — attendance bots, automation scripts, computer vision tools, and more.</p>
       
       <h3>🔭 Current Project</h3>
       <p><strong>📊 Team Attendance Bot</strong> — Telegram bot that replaces daily WhatsApp attendance polls.<br>
