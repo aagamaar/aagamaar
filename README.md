@@ -21,25 +21,23 @@
 <table width="100%">
   <tr>
     <td width="60%" valign="top">
-      <br />
       <h3>🎓 Current Internship</h3>
-      <p><strong>Skill Development cum Internship Program</strong><br />
-      <em>Computer Networks & Information Security</em><br />
+      <p><strong>Skill Development cum Internship Program</strong><br>
+      <em>Computer Networks & Information Security</em><br>
       🏫 <strong>IIIT Kottayam</strong></p>
       
-  <h3>🐍 What I Love Doing</h3>
+      <h3>🐍 What I Love Doing</h3>
       <p><strong>Building real-world Python projects that solve actual problems.</strong></p>
       <p>No tutorials. No to-do apps. Just tools people can actually use — attendance bots, automation scripts, computer vision tools, and more.</p>
       
-  <h3>🔭 Current Project</h3>
-  <p><strong>📊 Team Attendance Bot</strong> — Telegram bot that replaces daily WhatsApp attendance polls.<br />
-  → v1 MVP: single file, SQLite, working today<br />
-  → v2: multi-tenant rewrite in progress</p>
-  <br />
-  </td>
-  <td align="center" width="40%" valign="middle">
-  <img src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" width="280">
-  </td>
+      <h3>🔭 Current Project</h3>
+      <p><strong>📊 Team Attendance Bot</strong> — Telegram bot that replaces daily WhatsApp attendance polls.<br>
+      → v1 MVP: single file, SQLite, working today<br>
+      → v2: multi-tenant rewrite in progress</p>
+    </td>
+    <td align="center" width="40%" valign="middle">
+      <img src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" width="280">
+    </td>
   </tr>
 </table>
 
@@ -90,11 +88,11 @@
 
 <div align="center">
   <table width="100%">
-    <table>
+    <tr>
       <td width="33%" align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
         <h3>🩸 BloodSync</h3>
-        <p><code>Bun · React · Flask · Scikit-learn · Dialogflow · Firebase · Twilio</code></p>
-        <p>AI WhatsApp bot and dashboard connecting donors to Thalassemia patients, predicting blood needs, and boosting donations through gamification.</p>
+        <p><code>Java · Swing · MySQL · MVC</code></p>
+        <p>A comprehensive blood donation management system connecting donors, patients, and admins. Features real-time donor search by blood group & location, request management, notifications, and an admin dashboard with analytics.</p>
         <p><a href="https://github.com/aagamaar/Blood_Sync">🔗 GitHub →</a></p>
       </td>
       <td width="33%" align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
@@ -110,7 +108,7 @@
         <p><a href="https://github.com/aagamaar/Team_Attendance_Bot_v2">🔗 GitHub →</a></p>
       </td>
     </tr>
-  </table>
+  пански
 </div>
 
 > 💡 *Every project here has a messy debugging story attached. I build in public — failures and all.*
@@ -121,6 +119,8 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" />
