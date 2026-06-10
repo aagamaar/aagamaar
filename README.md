@@ -86,16 +86,46 @@
 
 ---
 
-## 🚀 Real-World Python Projects I've Shipped
+## 🏆 Projects that I'm Proud Of
 
-| Project | Stack | The Real Problem It Solves |
-|---------|-------|---------------------------|
-| [**Team Attendance Bot**](https://github.com/aagamaar/Team_Attendance_Bot) | Python, Telegram API, SQLite | Daily WhatsApp polls are annoying. This takes 2 seconds inside Telegram. |
-| [**Diabetes Predictor**](https://github.com/aagamaar/diabetes-predictor) | Python, Streamlit, SVM | End-to-end ML web app. Built so beginners can learn by seeing something real. |
-| [**Virtual Paint**](https://github.com/aagamaar/virtual-paint) | Python, OpenCV | Use colored objects as a paintbrush. Computer vision in action. |
-| [**Generative Turtle Art**](https://github.com/aagamaar/turtle-art) | Python, Turtle | Pushing a "beginner tool" to make generative visuals. |
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
+        <img src="https://img.icons8.com/color/48/telegram-app.png"/><br>
+        <strong>📊 Team Attendance Bot</strong><br>
+        <code>Python · Telegram API · SQLite</code><br>
+        <i>Replaces daily WhatsApp polls with a 2-second Telegram command.</i><br>
+        <a href="https://github.com/aagamaar/Team_Attendance_Bot">🔗 GitHub →</a>
+      </td>
+      <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
+        <img src="https://img.icons8.com/color/48/streamlit.png"/><br>
+        <strong>🩺 Diabetes Predictor</strong><br>
+        <code>Python · Streamlit · SVM</code><br>
+        <i>End-to-end ML web app with beginner-friendly docs.</i><br>
+        <a href="https://github.com/aagamaar/diabetes-predictor">🔗 GitHub →</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
+        <img src="https://img.icons8.com/color/48/opencv.png"/><br>
+        <strong>🎨 Virtual Paint</strong><br>
+        <code>Python · OpenCV · NumPy</code><br>
+        <i>Turn colored objects into a real-time paintbrush.</i><br>
+        <a href="https://github.com/aagamaar/virtual-paint">🔗 GitHub →</a>
+      </td>
+      <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
+        <img src="https://img.icons8.com/color/48/python--v1.png"/><br>
+        <strong>🐢 Generative Turtle Art</strong><br>
+        <code>Python · Turtle</code><br>
+        <i>Pushing a beginner tool to make generative visuals.</i><br>
+        <a href="https://github.com/aagamaar/turtle-art">🔗 GitHub →</a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-> 💡 *Every project has messy debugging stories attached. I build in public — failures and all.*
+> 💡 *Every project here has a messy debugging story attached. I build in public — failures and all.*
 
 ---
 
